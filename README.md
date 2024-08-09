@@ -1,5 +1,5 @@
 # Garbage-Collector
-This project is a part of Udacity C++ Nanodegree.The idea is to implement your own
+The idea is to implement our own
 version of a smart pointer. You can think of this as implementing your own
 garbage collector, to use a concept from other programming languages. This program is used to
 verify that your implementation does not have any memory leaks!
